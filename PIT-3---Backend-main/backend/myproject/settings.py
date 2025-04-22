@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-hz@_fgolcoq@fxk8jbx0_d589m@99^e8i2(en++7c5odv9h=5-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['pit-3-backend.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['pit-3-backend-3.onrender.com', 'localhost', '127.0.0.1']
 
 # Application definition
 
@@ -54,7 +54,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
-    "https://baldoklienedwind.github.io",
+    "https:/chanex15.github.io",
     'http://127.0.0.1:3000',
 ]
 
